@@ -1,5 +1,5 @@
 // Time code
-// 
+// Records the elapsed time between two points
 //
 // IDECodeSnippetCompletionScopes: [CodeBlock]
 // IDECodeSnippetIdentifier: 3AABD7C5-FF4D-4418-A484-AEC8E1568CF1
