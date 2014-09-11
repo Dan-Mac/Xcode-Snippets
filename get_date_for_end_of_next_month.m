@@ -5,7 +5,7 @@
 // IDECodeSnippetIdentifier: A6050DCC-2A32-4C97-B9C7-5E1E84A198D3
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 0
+// IDECodeSnippetVersion: 2
 - (NSDate *)getDateForEndOfNextMonth {
     NSDate *curDate = [NSDate date];
     NSCalendar *calendar = [NSCalendar currentCalendar];
