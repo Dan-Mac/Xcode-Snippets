@@ -5,7 +5,7 @@
 // IDECodeSnippetIdentifier: A0364E1F-5C94-4EE3-B73A-54885B91B3AD
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 0
+// IDECodeSnippetVersion: 2
 - (NSString *)getLocalTimeStringFormattedWith:(NSString *)format
                                   FromUTCDate:(NSDate *)utcDate {
     // offset second
