@@ -5,7 +5,7 @@
 // IDECodeSnippetIdentifier: D3B934FA-42F2-4FB8-920D-A257847EA848
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 0
+// IDECodeSnippetVersion: 2
 - (NSString *)getLocalTimeStringFormattedWith:(NSString *)format
                                 FromUTCString:(NSString *)utcDate {
     // UTC time
