@@ -5,7 +5,7 @@
 // IDECodeSnippetIdentifier: 2D9F1B6F-FA53-49C4-83F7-5BE794B7DB30
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 0
+// IDECodeSnippetVersion: 2
 NSFileManager *fileManager = [NSFileManager defaultManager];
 NSURL *bundleURL = [[NSBundle mainBundle] bundleURL];
 NSArray *contents = [fileManager contentsOfDirectoryAtURL:bundleURL
